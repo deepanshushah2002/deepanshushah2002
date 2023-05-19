@@ -19,7 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-<h3 align="left">✍️ Random Dev Quote:</h3>
+<h3 align="left">✍️ Random Quote:</h3>
 <p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="deepanshushah2002" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshushah2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="deepanshushah2002" /></p>
