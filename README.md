@@ -3,9 +3,6 @@
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanshushah2002&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshushah2002" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/deepanshu-shah-/](https://www.linkedin.com/in/deepanshu-shah-/)
 
 - ⚡ Fun fact **I am Funny 😊😊**
 
@@ -13,6 +10,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/deepanshu-shah-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepanshu-shah-/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/deepanshu_shah_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/deepanshu_shah_/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/deepanshu_shah_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/deepanshu_shah_/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
