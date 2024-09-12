@@ -23,4 +23,3 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=deepanshushah2002&show_icons=true&locale=en" alt="deepanshushah2002" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshushah2002&" alt="deepanshushah2002" /></p>
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" animation" / >
