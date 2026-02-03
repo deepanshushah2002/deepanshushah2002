@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Deepanshu Shah</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-- 🌱 I’m currently learning **Firebase and Android Studio using Kotlin**
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+- 🌱 I’m currently learning **Firebase and Android Studio using Flutter**
 
 - 📫 How to reach me **deepanshushah2002@gmail.com**
 
