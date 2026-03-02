@@ -7,8 +7,7 @@
 
 ---
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ### 🌟 About Me  
 
@@ -16,6 +15,7 @@
 - 📱 Building Android apps using **Flutter & Dart**
 - 💡 Passionate about clean UI & scalable architecture  
 - 🧠 Exploring mobile performance optimization  
+- 🎯 Goal: Become a top-tier Mobile App Engineer  
 - ⚡ Fun fact: I’m funny… but only sometimes 😆  
 
 <br clear="right"/>
@@ -26,13 +26,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/deepanshu-shah-/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
   <a href="https://leetcode.com/u/deepanshu_shah_/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="45"/>
   </a>
   <a href="https://www.instagram.com/deepanshu_shah_/">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
   </a>
 </p>
 
@@ -41,15 +41,7 @@
 ### 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,java,kotlin,python,mysql,git" />
-</p>
-
----
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshushah2002&theme=tokyonight" height="160"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,java,kotlin,python,mysql,git" />
 </p>
 
 ---
@@ -57,11 +49,13 @@
 ### 🚀 Portfolio  
 
 <p align="center">
-  🔗 <a href="https://deepanshushah2002.github.io/Portfolio/">Visit My Portfolio</a>
+  <a href="https://deepanshushah2002.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  💜 Code. Create. Innovate.
+  💜 <b>Code. Create. Innovate.</b>
 </p>
