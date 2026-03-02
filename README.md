@@ -1,22 +1,67 @@
-<h1 align="center">Hi 👋, I'm Deepanshu Shah</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h1 align="center">Hey there 👋 I'm Deepanshu Shah</h1>
+<h3 align="center">🚀 Flutter Developer | Android Enthusiast | Problem Solver</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-- 🌱 I’m currently learning **Firebase and Android Studio using Flutter**
-
-- 📫 How to reach me **deepanshushah2002@gmail.com**
-
-- 💾 Portfolio **https://deepanshushah2002.github.io/Portfolio/**
-
-- ⚡ Fun fact **I am Funny 😊😊**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/deepanshu-shah-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepanshu-shah-/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/deepanshu_shah_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/deepanshu_shah_/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/deepanshu_shah_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/deepanshu_shah_/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Passionate+Software+Engineer;Flutter+%7C+Firebase+Developer;Building+Scalable+Mobile+Apps;Always+Learning+New+Tech" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p
+---
 
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+
+### 🌟 About Me  
+
+- 🌱 Currently learning **Firebase & Advanced Flutter**
+- 📱 Building Android apps using **Flutter & Dart**
+- 💡 Passionate about clean UI & scalable architecture  
+- 🧠 Exploring mobile performance optimization  
+- ⚡ Fun fact: I’m funny… but only sometimes 😆  
+
+<br clear="right"/>
+
+---
+
+### 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/deepanshu-shah-/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://leetcode.com/u/deepanshu_shah_/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/deepanshu_shah_/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,java,kotlin,python,mysql,git" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshushah2002&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+### 🚀 Portfolio  
+
+<p align="center">
+  🔗 <a href="https://deepanshushah2002.github.io/Portfolio/">Visit My Portfolio</a>
+</p>
+
+---
+
+<p align="center">
+  💜 Code. Create. Innovate.
+</p>
