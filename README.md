@@ -7,10 +7,7 @@
 
 ---
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-     style="transition: transform 0.5s;"
-     onmouseover="this.style.transform='scale(1.05) rotate(3deg)';"
-     onmouseout="this.style.transform='scale(1) rotate(0deg)';"/>
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ### 🌟 About Me  
 
@@ -28,20 +25,14 @@
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/deepanshu-shah-/" style="transition: transform 0.3s;">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" 
-         onmouseover="this.style.transform='scale(1.2)';"
-         onmouseout="this.style.transform='scale(1)';"/>
+  <a href="https://www.linkedin.com/in/deepanshu-shah-/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
-  <a href="https://leetcode.com/u/deepanshu_shah_/" style="transition: transform 0.3s;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="45"
-         onmouseover="this.style.transform='scale(1.2)';"
-         onmouseout="this.style.transform='scale(1)';"/>
+  <a href="https://leetcode.com/u/deepanshu_shah_/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="45"/>
   </a>
-  <a href="https://www.instagram.com/deepanshu_shah_/" style="transition: transform 0.3s;">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45"
-         onmouseover="this.style.transform='scale(1.2)';"
-         onmouseout="this.style.transform='scale(1)';"/>
+  <a href="https://www.instagram.com/deepanshu_shah_/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
   </a>
 </p>
 
@@ -50,9 +41,7 @@
 ### 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,java,kotlin,python,mysql,git"
-       onmouseover="this.style.transform='scale(1.2)';"
-       onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,java,kotlin,python,mysql,git" />
 </p>
 
 ---
@@ -61,10 +50,7 @@
 
 <p align="center">
   <a href="https://deepanshushah2002.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge" 
-         style="transition: all 0.3s;" 
-         onmouseover="this.style.backgroundColor='#6C63FF'; this.style.color='white';" 
-         onmouseout="this.style.backgroundColor='#000000'; this.style.color='white';"/>
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge"/>
   </a>
 </p>
 
