@@ -41,7 +41,7 @@
 ### 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,java,kotlin,python,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,figma,firebase,androidstudio,vscode,java,kotlin,python,mysql,git" />
 </p>
 
 ---
@@ -50,8 +50,35 @@
 
 <p align="center">
   <a href="https://deepanshushah2002.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge" width="250"/>
   </a>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+  
+---
+
+### 📊 Contrubutions & Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshushah2002" alt="Deepanshu Shah" />
+</p>  
+
+---
+
+### 📈 Contributions Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshushah2002&radius=16&theme=merko&area=true&order=5&custom_title=Deepanshu%20Shah's%20GitHub%20Contribution%20Graph&line=ffda36" height="300" alt="Deepanshu Shah Contribution Graph" />
 </p>
 
 ---
