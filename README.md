@@ -25,14 +25,17 @@
 ### 🌐 Connect With Me  
 
 <p align="center">
+  <a href="mailto:deepanshushah2002@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" title="Email Me"/>
+  </a>
   <a href="https://www.linkedin.com/in/deepanshu-shah-/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" title="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/u/deepanshu_shah_/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="45"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="45" title="LeetCode"/>
   </a>
   <a href="https://www.instagram.com/deepanshu_shah_/">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" title="Instagram"/>
   </a>
 </p>
 
@@ -56,6 +59,16 @@
 
 ---
 
+### 📄 My CV  
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1ANt-l8KV9VxHWMEwCHdcikqAn4rIvGmD/view?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Resume-000000?style=for-the-badge" width="250"/>
+  </a>
+</p>
+
+---
+
 ### 🐍 Contribution Snake
 
 <p align="center">
@@ -67,7 +80,7 @@
   
 ---
 
-### 📊 Contrubutions & Streak Stats
+### 📊 Contributions & Streak Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshushah2002" alt="Deepanshu Shah" />
