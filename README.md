@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Flutter Developer | Android Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Passionate+Software+Engineer;Flutter+%7C+Firebase+Developer;Building+Scalable+Mobile+Apps;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=I+am+Deepanshu+Shah;Passionate+Software+Engineer;Flutter+%7C+Firebase+Developer;Building+Scalable+Mobile+Apps;Always+Learning+New+Tech" />
 </p>
 
 ---
@@ -63,7 +63,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1ANt-l8KV9VxHWMEwCHdcikqAn4rIvGmD/view?usp=drivesdk" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Resume-000000?style=for-the-badge" width="250"/>
+    <img src="https://img.shields.io/badge/View%20My%20MyCV-000000?style=for-the-badge" width="200"/>
   </a>
 </p>
 
