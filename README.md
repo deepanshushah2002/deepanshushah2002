@@ -25,7 +25,7 @@
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="mailto:deepanshushah2002@gmail.com">
+  <a href="mailto:deepanshushah01@outlook.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" title="Email Me"/>
   </a>
   <a href="https://www.linkedin.com/in/deepanshu-shah-/">
