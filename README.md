@@ -16,7 +16,7 @@
 - 💡 Passionate about clean UI & scalable architecture  
 - 🧠 Exploring mobile performance optimization  
 - 🎯 Goal: Become a top-tier Mobile App Engineer  
-- ⚡ Fun fact: I’m funny… but only sometimes 😆  
+- ⚡ Fun fact: I’m funny… but only sometimes 😆   
 
 <br clear="right"/>
 
