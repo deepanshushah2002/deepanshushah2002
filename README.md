@@ -52,7 +52,7 @@
 ### 🚀 Portfolio  
 
 <p align="center">
-  <a href="https://deepanshushah2002.github.io/Portfolio/">
+  <a href="https://deepanshushah2002.github.io/Portfolio/](https://portfolio-tau-bice-lzziakolpe.vercel.app">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge" width="250"/>
   </a>
 </p>
