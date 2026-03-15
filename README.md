@@ -62,7 +62,7 @@
 ### 📄 My CV  
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1ANt-l8KV9VxHWMEwCHdcikqAn4rIvGmD/view?usp=drivesdk" target="_blank">
+  <a href="https://drive.google.com/file/d/197FA-4KO-sBovZyozbY1p2rgBooFhdwm/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20CV-000000?style=for-the-badge" width="150"/>
   </a>
 </p>
