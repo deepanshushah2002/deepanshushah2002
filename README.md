@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋 I'm Deepanshu Shah</h1>
+<h1 align="center">Hey there <img width="40" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/> I'm Deepanshu Shah</h1>
 <h3 align="center">🚀 Flutter Developer | Android Enthusiast | Problem Solver</h3>
 
 <p align="center">
