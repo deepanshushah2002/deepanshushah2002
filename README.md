@@ -88,14 +88,6 @@
 
 ---
 
-### 📈 Contributions Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshushah2002&radius=16&theme=merko&area=true&order=5&custom_title=Deepanshu%20Shah's%20GitHub%20Contribution%20Graph&line=ffda36" height="300" alt="Deepanshu Shah Contribution Graph" />
-</p>
-
----
-
 <p align="center">
   💜 <b>Code. Create. Innovate.</b>
 </p>
